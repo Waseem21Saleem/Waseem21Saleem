@@ -24,7 +24,7 @@
 
 Full-stack and DevOps engineer with hands-on experience shipping production software for real commercial clients. From resolving race conditions in live booking systems to building AI-powered accessibility tools, I build things that work in the wild.
 
-- 🏗️ **Specialties:** full-stack web apps · DevOps automation · cybersecurity · AI integration
+- 🏗️ **Specialties:** full-stack web apps · DevOps automation · AI integration
 - 🏆 **Academic highlights:** Capstone **99** · DevOps **96** · Data Security **96** · Data Mining **96** · Intro CS **97**
 - 🌍 **Languages:** English (professional) · Hebrew (native) · Arabic (native)
 - 📫 **Reach me:** [waseemsaleem.com](https://waseemsaleem.com) · Waseem21Saleem@gmail.com
